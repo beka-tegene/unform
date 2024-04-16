@@ -30,11 +30,11 @@ const Products = () => {
                   <a href="#" data-target="#product-01" data-toggle="modal">
                     <span className="product-list-right pull-left">
                       <span className="product-list-name h4 black-color">
-                        Winter Long Sleeve Black White{" "}
+                        Uniform School
                       </span>
-                      <span className="product-list-price">$400.00</span>
+                      <span className="product-list-price">400 ETB</span>
                       <span className="product-list-price sell-p">
-                        <del>$580.00</del>
+                        <del>580 ETB</del>
                       </span>
                     </span>
                   </a>
@@ -58,9 +58,9 @@ const Products = () => {
                   <a href="#" data-target="#product-01" data-toggle="modal">
                     <span className="product-list-right pull-left">
                       <span className="product-list-name h4 black-color">
-                        women totes lady handbag
+                        Uniform Private Company
                       </span>
-                      <span className="product-list-price">$300.00</span>
+                      <span className="product-list-price">300 ETB</span>
                     </span>
                   </a>
                   <button
@@ -84,9 +84,9 @@ const Products = () => {
                   <a href="#" data-target="#product-01" data-toggle="modal">
                     <span className="product-list-right pull-left">
                       <span className="product-list-name h4 black-color">
-                        Lace water soluble sexy dress
+                        Uniform Governmental Company
                       </span>
-                      <span className="product-list-price">$600.00</span>
+                      <span className="product-list-price">600 ETB</span>
                     </span>
                   </a>
                   <button
@@ -109,9 +109,9 @@ const Products = () => {
                   <a href="#" data-target="#product-01" data-toggle="modal">
                     <span className="product-list-right pull-left">
                       <span className="product-list-name h4 black-color">
-                        Elegant Formal Party Dress
+                        Uniform Governmental Company
                       </span>
-                      <span className="product-list-price">$500.00</span>
+                      <span className="product-list-price">500 ETB</span>
                     </span>
                   </a>
                   <button
@@ -135,11 +135,11 @@ const Products = () => {
                   <a href="#" data-target="#product-01" data-toggle="modal">
                     <span className="product-list-right pull-left">
                       <span className="product-list-name h4 black-color">
-                        Mini Dress Ladies Sleeve
+                        Uniform School
                       </span>
-                      <span className="product-list-price">$600.00</span>
+                      <span className="product-list-price">600 ETB</span>
                       <span className="product-list-price sell-p">
-                        <del>$700.00</del>
+                        <del>700 ETB</del>
                       </span>
                     </span>
                   </a>
@@ -163,9 +163,9 @@ const Products = () => {
                   <a href="#" data-target="#product-01" data-toggle="modal">
                     <span className="product-list-right pull-left">
                       <span className="product-list-name h4 black-color">
-                        Winter Long Sleeve Black White{" "}
+                        Uniform Private Company
                       </span>
-                      <span className="product-list-price">$500.00</span>
+                      <span className="product-list-price">500 ETB</span>
                     </span>
                   </a>
                   <button
@@ -182,7 +182,6 @@ const Products = () => {
               </ul>
             </div>
           </div>
-          
         </div>
       </div>
       <div
@@ -266,7 +265,7 @@ const Products = () => {
                       </div>
                       <div className="col-md-5">
                         <span className="product-right-section">
-                          <span>$299.00</span>
+                          <span>299 ETB</span>
                           <button
                             className="btn btn-default add-item"
                             type="button"
