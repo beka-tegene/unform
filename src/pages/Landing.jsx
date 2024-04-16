@@ -17,7 +17,7 @@ const Landing = () => {
     <div>
       <Header />
       <Side />
-      <Cart />
+      {/* <Cart /> */}
       <Catalog />
       <Products />
       <About />
